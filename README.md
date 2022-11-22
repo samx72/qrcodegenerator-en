@@ -1,4 +1,4 @@
-# samx72-qrcodegenerator-en
+# OPEN BY PYTHON OR IDLE SHELL AND RUN IT OR VSC AND RUN IT
 
 this is a qrcode generator in language english
 
